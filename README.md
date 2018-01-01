@@ -20,5 +20,5 @@ Only need ADB installed.
 
 4. Use following command to run repeatedly.
     ```
-    for ((x=0;x<100;x++));do sleep 1; ../t.py;done
+    for ((x=0;x<100;x++));do sleep 1; ../jump.py;done
     ```
